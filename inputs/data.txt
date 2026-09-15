@@ -167,7 +167,39 @@ Status: GRANTED
 
 Malformed URL: https://
 Malformed phone: +250 ABC 999 000
+=======================================
+ STUDENT SUPPORT REQUESTS
+========
 
+Ticket ID: SUP-081324
+Priority: HIGH
+Status: OPEN
+Submitted By: b.shema3@alustudent.com
+Submission Channel: Web Support Form
+Request:
+Student reported an issue with a payment made through the online portal.
+Payment Details:
+Payment URL: https://alu_payments.com/pay
+Payment Method: Credit Card
+Card Number: 4242 4242 4242 4242
+Additional Information:
+    Student submitted the following content through the support form:
+        <script>alert("test")</script>
+        javascript("unexpected input")
+
+Ticket ID: SUP-102201
+Submitted By: shema@gmail.com
+Request: 
+    Student submitted an invoice for Term Two and requested assistance verifying the associated payment.
+Payment Details:
+Card Number: 1022 2002 1234 5678
+Invoice Document: http://document
+
+Ticket ID: SUP-102202
+Submitted By: g.oxil@alustu.com
+Request:
+    Student reported that they are unable to access their student dashboard
+        and requested technical support.
 ==================================================
 SYSTEM NOTES
 ============
